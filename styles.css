@@ -9,7 +9,7 @@ body {
     width: 100%;
     height: 100%;
 /* or haikei (10) .png */
-    background-image: url('../assets/blob-scene-haikei.svg');
+    background-image: url('https://lindsaywardd.github.io/meal-planner-website/assets/blob-scene-haikei.svg');
     background-size: cover;          /* Ensures the image covers the whole screen */
     background-position: center;     /* Centers the image */
     background-repeat: no-repeat;    /* Prevents the image from repeating */
